@@ -44,7 +44,6 @@ Check out the live demo of this application on Hugging Face Spaces: [Live Demo](
 3. Click on "Separate Audio" to start the separation process.
 4. Download the separated tracks as a ZIP file.
 
-## Contributors
 
 ## Contributors
 
