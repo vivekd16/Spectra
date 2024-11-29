@@ -34,7 +34,7 @@ Check out the live demo of this application on Hugging Face Spaces: [Live Demo](
 
 4. Run the Streamlit app:
    ```bash
-   streamlit run music_source_separation_app.py
+   streamlit run app.py
    ```
 
 ## Usage
