@@ -34,7 +34,7 @@ Check out the live demo of this application on Hugging Face Spaces: [Live Demo](
 
 4. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run music_source_separation_app.py
    ```
 
 ## Usage
@@ -43,3 +43,25 @@ Check out the live demo of this application on Hugging Face Spaces: [Live Demo](
 2. Select the desired Demucs model and configure the separation options.
 3. Click on "Separate Audio" to start the separation process.
 4. Download the separated tracks as a ZIP file.
+
+## Contributors
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vivekd16"><img src="https://avatars.githubusercontent.com/u/38549908?v=4?s=100" width="100px;" alt="Vivek Deshmukh"/><br /><sub><b>Vivek Deshmukh</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Himanshu-Lohokane"><img src="https://avatars.githubusercontent.com/u/43621438?v=4?s=100" width="100px;" alt="Himanshu Lohokane"/><br /><sub><b>Himanshu Lohokane</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Maviyamahagami"><img src="https://avatars.githubusercontent.com/u/38549908?v=4?s=100" width="100px;" alt="Maviya Mahagami"/><br /><sub><b>Maviya Mahagami</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
