@@ -57,7 +57,7 @@ audio_format = st.selectbox("Select Output Format", ["wav", "mp3", "flac"])
 shift_trick = st.slider("Select Number of Shifts for Shift Trick", min_value=0, max_value=10, value=0)
 
 # Overlap slider
-overlap = st.slider("Select Overlap Percentage", min_value=0.0, max_value=1.0, value=0.25, step=0.05)
+overlap = st.slider("Select Overlap Percentage", min_value=0.0, max_value=0.9, value=0.25, step=0.05)
 
 # Button to trigger separation
 if st.button('Separate Audio'):
