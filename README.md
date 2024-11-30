@@ -64,3 +64,6 @@ Check out the live demo of this application on Hugging Face Spaces: [Live Demo](
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## References
+- [Demucs by Facebook Research](https://github.com/facebookresearch/demucs): A state-of-the-art music source separation tool used in this project.
