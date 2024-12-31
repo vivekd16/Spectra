@@ -4,10 +4,7 @@ Spectra is a Streamlit-based web application for music source separation using D
 
 ## Live Demo
 
-Check out the live demo of this application on Hugging Face Spaces: [Live Demo](https://huggingface.co/spaces/Vivek6041/Spectra)
-
-*Note: The live demo may run slower due to the use of 2 vCPUs and 16 GB RAM.*
-
+Check out the live demo : [Live Demo](https://spectra-7wejilybx6qfjyk3ilvrrw.streamlit.app/?embed_options=dark_theme)
 ## Features
 - **Audio File Upload**: Supports MP3 and WAV file formats.
 - **Model Selection**: Choose from different Demucs models with descriptions.
