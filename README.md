@@ -50,9 +50,9 @@ Check out the live demo : [Live Demo](https://spectra-7wejilybx6qfjyk3ilvrrw.str
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vivekd16"><img src="https://avatars.githubusercontent.com/u/38549908?v=4?s=100" width="100px;" alt="Vivek Deshmukh"/><br /><sub><b>Vivek Deshmukh</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Himanshu-Lohokane"><img src="https://avatars.githubusercontent.com/u/43621438?v=4?s=100" width="100px;" alt="Himanshu Lohokane"/><br /><sub><b>Himanshu Lohokane</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Maviyamahagami"><img src="https://avatars.githubusercontent.com/u/38549908?v=4?s=100" width="100px;" alt="Maviya Mahagami"/><br /><sub><b>Maviya Mahagami</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vivekd16"><br /><sub><b>Vivek Deshmukh</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Himanshu-Lohokane"><br /><sub><b>Himanshu Lohokane</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Maviyamahagami"><br /><sub><b>Maviya Mahagami</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
